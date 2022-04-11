@@ -1,0 +1,14 @@
+{
+	"name": "php-88/php-88",
+	"type": "project",
+	"description": "Day two project",
+	"keywords": [],
+	"license": "",
+	"require": {},
+	"require-div": {},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app//"
+		}
+	}
+}
